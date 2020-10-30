@@ -1,2 +1,3 @@
 # Graph-Search
-Brute-Force,Greedy and our own Algorithm implementation for the k-centers problem
+## K-centers Problem ##
+* Our Algorithm implementation for the k-centers problem was awarded as the best scoring one in the entire class.
